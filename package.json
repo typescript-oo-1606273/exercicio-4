@@ -1,0 +1,15 @@
+{
+  "name": "exercicio-4",
+  "version": "1.0.0",
+  "description": "**Objetivo**: Criar um sistema simples de calculadora que realize operações básicas como soma, subtração, multiplicação e divisão usando uma classe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
